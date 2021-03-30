@@ -169,7 +169,7 @@ body, html {
     transform: translate(-50%, -50%);
     z-index: 2;
     width: 100%;
-    padding: 20px;
+    padding: 40px;
     text-align: center;
     font-family: 'Ranchers', cursive;
   }
@@ -285,16 +285,30 @@ h3{
     width: 100%;
     box-shadow: 6px 6px 14px black;
   }
+
+
+  .fa {
+
+    color: white;
+  }
+    
+  
+  
 /*  head animation*/
 
 
 
-.ml5 {
+/* .ml5 {
   position: relative;
   font-weight: 300;
-  font-size: 6.1em;
-  color: #b47676;
+  font-size: 5.1em;
+  color: #6b3e3e;
 }
+
+
+
+
+
 
 .ml5 .text-wrapper {
   position: relative;
@@ -329,7 +343,7 @@ h3{
 .ml5 .letters {
   display: inline-block;
   opacity: 0;
-}
+} */
 
 
   /* footer */
