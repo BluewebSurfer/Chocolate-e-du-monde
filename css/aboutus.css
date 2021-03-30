@@ -255,6 +255,7 @@ background-size: 100%;
   width: 500px;
   height: 400px;
   object-fit: cover;
+  box-shadow: 0 0 10px black;
   
 }
 
@@ -289,8 +290,8 @@ h3{
 .ml5 {
   position: relative;
   font-weight: 300;
-  font-size: 4.5em;
-  color: #402d2d;
+  font-size: 6.1em;
+  color: #b47676;
 }
 
 .ml5 .text-wrapper {

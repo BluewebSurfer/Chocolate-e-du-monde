@@ -325,7 +325,7 @@ color: white;
     position: relative;
     font-weight: 300;
     font-size: 4.5em;
-    color: #402d2d;
+    color: #b47676;
   }
   
   .ml5 .text-wrapper {
@@ -363,6 +363,15 @@ color: white;
     opacity: 0;
   }
   
+
+
+  .responsive{
+
+    width: 100%;
+    height: 500px;
+    object-fit: cover;
+    box-shadow: 0 0 10px black;
+  }
   /* footer */
 
 .footer {
