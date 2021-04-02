@@ -25,6 +25,7 @@ width: 100%;
    
     position: relative;
     object-fit: cover;
+   
 }
 .big-banner-img img{
     height: 770px;
@@ -187,6 +188,7 @@ body, html {
 body {
     background-image: url("https://pixelz.cc/wp-content/uploads/2018/12/chocolate-and-raw-cocoa-beans-uhd-4k-wallpaper.jpg");
     background-size: 100%;
+    background-attachment: fixed;
    
   }
   
